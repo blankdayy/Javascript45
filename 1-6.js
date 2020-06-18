@@ -1,0 +1,5 @@
+// ข้อ 6;
+let sum=0
+for(let i=1;i<=87;i++){
+    sum+=(i*(i+1))
+}console.log(sum)
